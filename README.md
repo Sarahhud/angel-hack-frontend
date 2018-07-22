@@ -16,4 +16,4 @@ Install this project:
 
 Note: This project is a product of Angel Hackathon in Seattle from July 21-22. 
 
-![Home Page](assets/Final-Screens/Doctor-Landing-Page)
+![Home Page](assets/Final-Screens/Doctor-Landing-Page.png)
