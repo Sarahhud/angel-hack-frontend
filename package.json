@@ -16,5 +16,8 @@
     "watchify": "^3.11.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "agora-rtc-sdk": "^2.3.1"
+  }
 }
